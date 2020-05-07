@@ -1,1 +1,1 @@
-# Aurorae-Themes
+# Aurorae Themes
