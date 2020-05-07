@@ -13,4 +13,4 @@ Manual: Copy the theme folder to ~/.local/share/aurorae/themes
 This is a port of [MIxQ](https://github.com/owl4ce/yet-another-obt) and [NorcX](https://github.com/owl4ce/yet-another-obt) with minor tweaks.
 
 ## License
-GNU GPL version 3
+GNU GPL version 3. [LICENSE](LICENSE)
