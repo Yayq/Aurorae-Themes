@@ -1,4 +1,4 @@
-# Aurorae Themes
+# <p align="center">Aurorae Themes</p>
 
 ## <p align="center">KMIxQ</p>
 
