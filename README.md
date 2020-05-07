@@ -1,12 +1,11 @@
 # <p align="center">Aurorae Themes</p>
-<br>
+
+
 ## <p align="center">KMIxQ</p>
-<br>
 <p align="center"><img src="https://github.com/Yayq/Aurorae-Themes/blob/master/KMIxQ.png">
 
 
 ## <p align="center">KNorcX</p>
-<br>
 <p align="center"><img src="https://github.com/Yayq/Aurorae-Themes/blob/master/KNorcX.png">
 
 ## Installing
